@@ -5,8 +5,10 @@
 界面功能暂时未完成......  
 
 部分展示：  
+
 开始界面  
-![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/1.png)
+![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/1.png)  
+
 主界面  
 ![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/2.png)
 
