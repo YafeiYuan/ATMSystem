@@ -16,4 +16,4 @@
 ![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/3.png)
 
 未完成界面  
-<!-- ![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/1.png) -->
+![Image text](https://github.com/YafeiYuan/ATMSystem/blob/main/%E5%9B%BE%E7%89%87/4.png)
